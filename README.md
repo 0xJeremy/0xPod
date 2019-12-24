@@ -1,5 +1,9 @@
 # 0xPod
 
-## HexaPod V1
+## Hexagon Body
+
+![](https://github.com/0xJeremy/0xPod/blob/master/images/hexagon.png)
+
+## Rectangle Body
 
 ![](https://github.com/0xJeremy/0xPod/blob/master/images/body.png)
